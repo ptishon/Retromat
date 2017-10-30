@@ -974,34 +974,34 @@ suitable:  "iteration, project, release"
 };
 all_activities[55] = {
 phase:     5,
-name:      "Invite a Customer",
-summary:   "Bring the team into direct contact with a customer or stakeholder",
-desc:      "Invite a customer or internal stakeholder to your retrospective.\
-Let the team ask ALL the questions:\
+name:      "Пригласите клиента",
+summary:   "Организуйте непосредственный контакт между командой и клиентом или стейкхолдером",
+desc:      "Пригласите на вашу ретроспективу клиента или стейкхолдеров из вашей компании.\
+Позвольте команаде задать каждый из следующих вопросов:\
 <ul>\
-    <li>How does the client use your product?</li>\
-    <li>What makes them curse the most?</li>\
-    <li>Which function makes their life easier?</li>\
-    <li>Let the client demonstrate their typical workflow</li>\
+    <li>Как клиент использует продукт?</li>\
+    <li>Что больше всего мешает клиенту?</li>\
+    <li>Какая функциональность облегчает клиенту жизнь?</li>\
+    <li>Позвольте клиенту продемонстрировать свой обычный рабочий процесс</li>\
     <li>...</li>\
 </ul>",
 source:    "<a href='http://skycoach.be/2010/06/17/12-retrospective-exercises/'>Nick Oostvogels</a>",
-durationDetail:  "45 min",
-duration:    "Long",
+durationDetail:  "45 минут",
+duration:    "Длительная",
 stage:    "Forming, Norming, Performing, Stagnating",
-suitable:  "iteration, project"
+suitable:  "итерация, проект"
 };
 all_activities[56] = {
 phase:     4,
-name:      "Say it with Flowers",
-summary:   "Each team member appreciates someone else with a flower",
-desc:      "Buy one flower for each team member and reveal them at the end of the retrospective. \
-Everyone gets to give someone else a flower as a token of their appreciation.",
+name:      "Выразите эмоции с помощью цветка",
+summary:   "Каждый участник команды благодарит другого участника и дарит ему цветок",
+desc:      "Купите цветы, количество участников ретроспективы и цветов должно совпадать. Покажите цветы только в конце ретроспективы. \
+Раздайте всем по цветку, чтобы каждый участник подарил свой цветок кому-то другому из команды в качестве благодарности.",
 source:    "<a href='http://skycoach.be/2010/06/17/12-retrospective-exercises/'>Nick Oostvogels</a>",
-durationDetail:  "5 min",
-duration:    "Short",
+durationDetail:  "5 минут",
+duration:    "Короткая",
 stage:    "Norming, Performing",
-suitable:  "iteration, project"
+suitable:  "итерация, проект"
 };
 all_activities[57] = {
 phase:     2,
